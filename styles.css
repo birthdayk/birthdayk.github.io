@@ -11,3 +11,7 @@ a {
   text-decoration: none;
   color: black;
 }
+
+button {
+  padding-left: 50em;
+}
